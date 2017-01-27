@@ -11,11 +11,11 @@ This requires you to have Git and Node.js installed.
 
 In your own node environment/application:
 ```bash
-npm install https://github.com/LLK/scratch-vm.git
+npm install https://github.com/TransmediaLab/scratch-vm.git
 ```
 If you want to edit/play yourself:
 ```bash
-git clone https://github.com/LLK/scratch-vm.git
+git clone https://github.com/TransmediaLab/scratch-vm.git
 cd scratch-vm
 npm install
 ```
